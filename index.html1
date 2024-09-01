@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html lang="ar">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>موقعي الشخصي</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 0;
+        }
+        header {
+            background-color: #f8f9fa;
+            padding: 10px;
+            text-align: center;
+        }
+        main {
+            padding: 20px;
+        }
+        footer {
+            background-color: #f8f9fa;
+            text-align: center;
+            padding: 10px;
+            position: fixed;
+            bottom: 0;
+            width: 100%;
+        }
+    </style>
+</head>
+<body>
+    <header>
+        <h1>مرحبا بكم في موقعي الشخصي</h1>
+    </header>
+    <main>
+        <h2>حول</h2>
+        <p>هذا هو الموقع الشخصي الخاص بي. يمكنك إضافة المزيد من المحتوى هنا.</p>
+    </main>
+    <footer>
+        <p>&copy; 2024 موقعي الشخصي</p>
+    </footer>
+</body>
+</html>
